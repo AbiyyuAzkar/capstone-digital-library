@@ -106,3 +106,5 @@ A Postman collection is provided for testing the API:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Deployment Perpustakaan Digital Sekolah Aktif pada 168.110.200.172
